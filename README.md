@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there, I'm 0xAdnanH! 👋
 
-<!--
-**0xAdnanH/0xAdnanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a strong interest in distributed technologies, particularly Ethereum and the tools surrounding it. I'm constantly eager to learn and explore new possibilities in this exciting field.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm always eager to learn and expand my knowledge in distributed technologies.
+- 💼 Currently exploring the fascinating world of Ethereum and building decentralized applications.
+- 🔭 Let's connect on [LinkedIn](https://www.linkedin.com/in/0xAdnanH) or [Twitter](https://twitter.com/0xAdnanH) to discuss all things distributed technology!
+
+### Skills
+
+#### Programming Languages and Frameworks
+
+- Solidity
+- JavaScript
+- HTML5
+- CSS3
+
+#### Tools and Technologies
+
+- Truffle
+- Hardhat
+- Ethers.js
+- Web3.js
+- Metamask
+- MochaJS
+- VS Code
+- Git
+- GitHub
+
+
+#### Operating Systems
+
+- Ubuntu
+- Windows
+
+Let's build a decentralized future together! Feel free to reach out to me on LinkedIn or Twitter.
