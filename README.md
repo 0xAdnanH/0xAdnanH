@@ -12,7 +12,7 @@ I'm a passionate developer with a strong interest in distributed technologies, p
 ### Skills
 
 #### Languages and Tools: 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=Solidity,Javascript,Hardhat,Ethers.js,Web3.js,Metamask,MochaJS,VsCode,Git,Github,HTML5,CSS3)](https://skills.thijs.gg)
 
 
 #### Operating Systems
