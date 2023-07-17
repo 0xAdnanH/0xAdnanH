@@ -19,7 +19,7 @@ I'm a passionate developer with a strong interest in distributed technologies, p
 
 
 #### Tools and Technologies:
--Hardhat
+<img align="left" alt="Hardhat" width="43px" src="https://github.com/YamenMerhi/YamenMerhi/blob/main/20210904_195403.png" />
 -Ethers.js
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 -Metamask
