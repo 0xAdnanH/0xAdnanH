@@ -11,8 +11,22 @@ I'm a passionate developer with a strong interest in distributed technologies, p
 
 ### Skills
 
-#### Languages and Tools: 
-[![My Skills](https://skills.thijs.gg/icons?i=sol,js,hardhat,Ethers.js,Web3.js,Metamask,MochaJS,VsCode,git,Github,HTML5,CSS3)](https://skills.thijs.gg)
+#### Programming Languages and Frameworks: 
+
+-Solidity
+-JS
+-HTMl5
+-CSS3
+
+#### Tools and Technologies:
+-Hardhat
+-Ethers.js
+-Web3.js
+-Metamask
+-MochaJS
+-VS Code
+-Git
+-Github
 
 
 #### Operating Systems
