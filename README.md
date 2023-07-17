@@ -20,7 +20,6 @@ I'm a passionate developer with a strong interest in distributed technologies, p
 
 #### Tools and Technologies
 
-- Truffle
 - Hardhat
 - Ethers.js
 - Web3.js
