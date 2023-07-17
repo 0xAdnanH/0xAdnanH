@@ -1,4 +1,4 @@
-****# Hi there, I'm 0xAdnanH! 👋
+# Hi there, I'm 0xAdnanH! 👋
 
 I'm a passionate developer with a strong interest in distributed technologies, particularly Ethereum and the tools surrounding it. I'm constantly eager to learn and explore new possibilities in this exciting field.
 
