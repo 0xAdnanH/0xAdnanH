@@ -6,7 +6,7 @@ I'm a passionate developer with a strong interest in distributed technologies, p
 
 - 🌱 I'm always eager to learn and expand my knowledge in distributed technologies.
 - 🔭 Let's connect on [LinkedIn](https://www.linkedin.com/in/adnan-huss-8685aa264) or [Twitter](https://twitter.com/0xAdnanH) to discuss all things distributed technology!
-- Open to Work!
+- Available to have a chat :)
 
 ----------------
 
@@ -53,4 +53,4 @@ I'm a passionate developer with a strong interest in distributed technologies, p
 
 --------
 
-Let's build a decentralized future together! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adnan-huss-8685aa264) or [Twitter](https://twitter.com/0xAdnanH).
+ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adnan-huss-8685aa264) or [Twitter](https://twitter.com/0xAdnanH).
