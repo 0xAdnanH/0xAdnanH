@@ -1,11 +1,11 @@
-# Hi there, I'm 0xAdnanH! 👋
+# Hi there, I'm Adnan
 
 I'm a passionate developer with a strong interest in distributed technologies, particularly Ethereum and the tools surrounding it. I'm constantly eager to learn and explore new possibilities in this exciting field.
 
 ### About Me
 
-- 🌱 I'm always eager to learn and expand my knowledge in distributed technologies.
-- 🔭 Let's connect on [LinkedIn](https://www.linkedin.com/in/adnan-huss-8685aa264) or [Twitter](https://twitter.com/0xAdnanH) to discuss all things distributed technology!
+-  I'm always eager to learn and expand my knowledge in distributed technologies.
+-  Let's connect on [LinkedIn](https://www.linkedin.com/in/adnan-huss-8685aa264) or [Twitter](https://twitter.com/0xAdnanH) to discuss all things distributed technology!
 - Available to have a chat :)
 
 ----------------
